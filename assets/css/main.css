@@ -1359,12 +1359,11 @@ i.home-product-item__like--icon-fill {
 }
 
 .home-product-item__mall--img {
-    background-image: url('/assets/img/shopeemall.png');
+    background-image: url('./assets/img/shopeemall.png');
     background-size: 100%;
     background-repeat: no-repeat;
     width: 56px;
     height: 15px;
-    /* background-image: url('/assets/img/shopeemall.png'); */
 }
 
 .home-product-item__sale-off {
